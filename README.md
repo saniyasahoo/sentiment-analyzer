@@ -1,4 +1,4 @@
-#sentiment-analyzer
+# Sentiment-analyzer
 
 • The model predicts one of the following sentiments:
 
